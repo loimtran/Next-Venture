@@ -102,7 +102,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/loimtran/Next-Venture.git
-cd pitchify
+cd Next-Venture
 ```
 
 <!-- **Installation**
